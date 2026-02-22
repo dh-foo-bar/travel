@@ -60,7 +60,7 @@
     
     *Bryggen 11*
 
-    !!! reserve "RESERVE AHEAD"
+    !!! reserve "RESERVATION @ 8:00PM"
         [:material-web: bryggeloftet.no](https://www.bryggeloftet.no) · Call +47 55 30 20 70
 
 !!! drink "Nightcap — No Stress"
