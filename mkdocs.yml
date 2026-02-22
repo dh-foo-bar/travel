@@ -1,0 +1,64 @@
+site_name: Our Trips
+site_url: https://dh-foo-bar.github.io/travel/
+site_description: Travel guides & itineraries
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  font:
+    text: DM Sans
+    code: DM Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - content.tabs.link
+    - toc.integrate
+    - search.suggest
+  icon:
+    logo: material/airplane
+    
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  manifest: manifest.json
+
+plugins:
+  - search
+  - offline:
+      enabled: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+  - toc:
+      permalink: false
+
+nav:
+  - Home: index.md
+  - Northern Europe 2026:
+    - Overview: trips/northern-europe-2026/index.md
+    - Helsinki: trips/northern-europe-2026/helsinki.md
+    - Stockholm: trips/northern-europe-2026/stockholm.md
+    - Gothenburg: trips/northern-europe-2026/gothenburg.md
+    - Bergen: trips/northern-europe-2026/bergen.md
+    - Copenhagen: trips/northern-europe-2026/copenhagen.md
+    - Practical Notes: trips/northern-europe-2026/notes.md

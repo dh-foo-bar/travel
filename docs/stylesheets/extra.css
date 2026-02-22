@@ -1,0 +1,221 @@
+/* ── Root overrides ── */
+:root {
+  --md-primary-fg-color: #2d5a41;
+  --md-primary-bg-color: #fff;
+  --md-accent-fg-color: #2d5a41;
+  --md-typeset-a-color: #2d5a41;
+}
+
+/* ── Cleaner mobile header ── */
+.md-header {
+  background: linear-gradient(160deg, #1a1a2e 0%, #16213e 40%, #2d5a41 100%);
+}
+.md-tabs {
+  background: rgba(26, 26, 46, 0.9);
+}
+
+/* ── Activity Cards ── */
+/* Usage: admonitions with custom types */
+
+/* Travel */
+.md-typeset .admonition.travel,
+.md-typeset details.travel {
+  border-left-color: #3a5ba0;
+}
+.md-typeset .admonition.travel > .admonition-title,
+.md-typeset details.travel > summary {
+  background-color: rgba(58, 91, 160, 0.08);
+}
+.md-typeset .admonition.travel > .admonition-title::before,
+.md-typeset details.travel > summary::before {
+  content: "✈️";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* Eat */
+.md-typeset .admonition.eat,
+.md-typeset details.eat {
+  border-left-color: #b85c38;
+}
+.md-typeset .admonition.eat > .admonition-title,
+.md-typeset details.eat > summary {
+  background-color: rgba(184, 92, 56, 0.08);
+}
+.md-typeset .admonition.eat > .admonition-title::before,
+.md-typeset details.eat > summary::before {
+  content: "🍽️";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* Drink */
+.md-typeset .admonition.drink,
+.md-typeset details.drink {
+  border-left-color: #7b5ea7;
+}
+.md-typeset .admonition.drink > .admonition-title,
+.md-typeset details.drink > summary {
+  background-color: rgba(123, 94, 167, 0.08);
+}
+.md-typeset .admonition.drink > .admonition-title::before,
+.md-typeset details.drink > summary::before {
+  content: "🍺";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* Do / Explore */
+.md-typeset .admonition.do,
+.md-typeset details.do {
+  border-left-color: #2d7d6b;
+}
+.md-typeset .admonition.do > .admonition-title,
+.md-typeset details.do > summary {
+  background-color: rgba(45, 125, 107, 0.08);
+}
+.md-typeset .admonition.do > .admonition-title::before,
+.md-typeset details.do > summary::before {
+  content: "☀️";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* Reserve / Warning */
+.md-typeset .admonition.reserve,
+.md-typeset details.reserve {
+  border-left-color: #c0392b;
+}
+.md-typeset .admonition.reserve > .admonition-title,
+.md-typeset details.reserve > summary {
+  background-color: rgba(192, 57, 43, 0.08);
+  color: #c0392b;
+}
+.md-typeset .admonition.reserve > .admonition-title::before,
+.md-typeset details.reserve > summary::before {
+  content: "⚠️";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* Laundry */
+.md-typeset .admonition.laundry,
+.md-typeset details.laundry {
+  border-left-color: #d4a843;
+}
+.md-typeset .admonition.laundry > .admonition-title,
+.md-typeset details.laundry > summary {
+  background-color: rgba(212, 168, 67, 0.08);
+}
+.md-typeset .admonition.laundry > .admonition-title::before,
+.md-typeset details.laundry > summary::before {
+  content: "🧺";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* Tour */
+.md-typeset .admonition.tour,
+.md-typeset details.tour {
+  border-left-color: #e67e22;
+}
+.md-typeset .admonition.tour > .admonition-title,
+.md-typeset details.tour > summary {
+  background-color: rgba(230, 126, 34, 0.08);
+}
+.md-typeset .admonition.tour > .admonition-title::before,
+.md-typeset details.tour > summary::before {
+  content: "🎫";
+  font-size: 1rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  width: auto;
+  height: auto;
+}
+
+/* ── Day headers ── */
+.day-header {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e8e4df;
+}
+.day-header:first-child {
+  margin-top: 0;
+}
+
+/* ── Hotel info boxes ── */
+.hotel-box {
+  background: #f8f6f3;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  border: 1px solid #e8e4df;
+}
+
+/* ── Make content tabs look better ── */
+.md-typeset .tabbed-set {
+  margin-top: 0;
+}
+
+/* ── Mobile refinements ── */
+@media (max-width: 768px) {
+  .md-content {
+    padding: 0 4px;
+  }
+  .md-typeset h1 {
+    font-size: 1.6rem;
+  }
+}
+
+/* ── Trip card on home page ── */
+.trip-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px 22px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  border-left: 3px solid #2d5a41;
+  margin-bottom: 14px;
+  transition: transform 0.15s ease;
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
+.trip-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.trip-card h3 {
+  margin-top: 4px !important;
+}
+.trip-card p {
+  color: #999;
+  font-size: 0.85rem;
+}
