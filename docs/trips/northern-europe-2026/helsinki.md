@@ -26,6 +26,12 @@ Mannerheimintie 5, 00100 Helsinki<br>
 
 *Recover. Explore gently. Stay awake until evening to beat jet lag.*
 
+!!! do "Löyly Sauna"
+    Book an early slot. €27/person, 2 hours. Wood-burning + smoke sauna on the Baltic. Swim in the sea between sessions. Bring swimsuits (required, mixed saunas). Restaurant is walk-in in summer — eat on the terrace after.
+
+    !!! reserve "We have booked this sauna a few hours after arriving"
+        [:material-web: Book sauna session](https://varaus.asio.fi/onlinekalenteri/loyly/guest.php?ss_lang=eng)
+
 !!! do "Afternoon — Wander the Waterfront"
     Walk to Market Square (Kauppatori). Smoked salmon, Karelian pies, fresh berries from the stalls. Wander toward the Design District if you have energy.
 
@@ -68,11 +74,7 @@ Mannerheimintie 5, 00100 Helsinki<br>
 
 ## Day 4 — Sat Jun 14 · Sauna, Design & Chaos { .day-header }
 
-!!! do "Morning — Löyly Sauna"
-    Book an early slot. €27/person, 2 hours. Wood-burning + smoke sauna on the Baltic. Swim in the sea between sessions. Bring swimsuits (required, mixed saunas). Restaurant is walk-in in summer — eat on the terrace after.
-
-    !!! reserve "BOOK AHEAD"
-        [:material-web: Book sauna session](https://varaus.asio.fi/onlinekalenteri/loyly/guest.php?ss_lang=eng)
+>**NOTE**: Don't really know what we're doing this day - likely wandering. No need to book any additional reservations.
 
 !!! do "Afternoon — Punavuori (Design District)"
     Near your hotel. Independent shops, design studios, galleries. Coffee at **Johan & Nyström** — third-wave roastery, great pour-overs.

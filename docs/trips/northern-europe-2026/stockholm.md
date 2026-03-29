@@ -25,9 +25,14 @@ Confirmation: <code>35V1GPFJV</code>
     - **Capricci** — Pasta + cocktails, beautiful space. Good dinner option. *Bondegatan 48*
     - **Söders Hjärta** — Neighborhood pub, very local. End-of-night vibe.
 
+![](media/stockholm-day1.png)
 ---
 
 ## Day 7 — Tue Jun 17 · Old Town & the Warship { .day-header }
+
+> **NOTES:** 
+>  - There is a ferry from Slussen to Djurgården - ~10 minutes
+>  - Can walk to the war ship if feeling sporty
 
 !!! do "Morning — Gamla Stan (Old Town)"
     Medieval streets. Skip main souvenir drag, go down tiny side alleys. Find Mårten Trotzigs Gränd (narrowest street, 90 cm wide).
@@ -45,18 +50,16 @@ Confirmation: <code>35V1GPFJV</code>
     
     *Tjärhovsgatan 4*
 
+![](media/stockholm-day2.png)
+
 ---
 
 ## Day 8 — Wed Jun 18 · Laundry, Islands & Rooftops { .day-header }
 
-!!! laundry "Morning — Laundry at Tvättomaten"
-    Stockholm's only self-service laundromat. T-bana to Odenplan, 2-min walk. Drop off, explore Vasastan for ~1 hour, pick up.
+!!! laundry "Morning — Laundry at Elittvätten"
+    Laundry 
 
-    - **Address:** Västmannagatan 61, near Odenplan
-    - **Cost:** ~100 SEK (~$10) small load, includes soap + drying
-    - **Hours:** Mon–Fri 8:30–18:30, Sat 9:30–13:00
-    - **⚠️ Cash only** for machines. Staff speaks English.
-    - [:material-web: tvättomaten.se](https://tvättomaten.se/engelska/)
+    Gotlandsgatan 59, 116 38 Stockholm, Sweden
 
 !!! do "Afternoon — Fjäderholmarna (Archipelago)"
     Public ferry from Nybroplan (25 min). Closest archipelago island — brewery, craft shops, rocky shores. Way better than an organized tour. Ferries run regularly.
@@ -65,6 +68,8 @@ Confirmation: <code>35V1GPFJV</code>
     Best panoramic views of Stockholm. Arrive before 6 PM for sunset spot. Asian-influenced food and creative cocktails.
     
     *Brunkebergstorg 2*
+
+![](media/stockholm-day3.png)
 
 ---
 
