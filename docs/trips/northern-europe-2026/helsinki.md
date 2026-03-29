@@ -62,6 +62,8 @@ Mannerheimintie 5, 00100 Helsinki<br>
     !!! reserve "RESERVE AHEAD"
         [:material-web: basbas.fi/kulma](https://basbas.fi/kulma/en/) · Call +358 44 230 5900
 
+![](media/helsinki-day3.png)
+
 ---
 
 ## Day 4 — Sat Jun 14 · Sauna, Design & Chaos { .day-header }
